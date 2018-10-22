@@ -1,5 +1,5 @@
 # S3J5-Gossip-Project
-Projet THP en mode MVC
+Projet THP en mode MVC, by @me
 
 
 
