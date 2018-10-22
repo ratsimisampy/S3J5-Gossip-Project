@@ -24,3 +24,7 @@ Gossip project
        └── router.rb 
     
 ```
+## Ameliorations
+
+* finir la fonction Delete_gossip
+* tester avec json
